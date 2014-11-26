@@ -1,10 +1,13 @@
 html5-playground
 ================
 
+
 Simple html5 examples
-<html>
-<body>
+
+
 <h1>Web Portal</h1>
+
+
     <table align="center">
         <tr>
             <td>
@@ -40,4 +43,3 @@ Simple html5 examples
             </td>
         </tr>
     </table>
-</html>
